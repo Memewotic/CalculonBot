@@ -165,3 +165,4 @@ async def musichelp():
     await bot.say("""Commands are ```m!musichelp, m!play, m!np, m!skip, m!search, m!shuffle, m!clear, m!pause, m!resume, m!summon, m!disconnect```
     **TO CHECK OUT DETAILED COMMANDS FOR CALCULON BOT (MUSIC SECTION) PLEASE GO TO**:
     https://github.com/Memewotic/CalculonBot/wiki/Music-Commands :thumbsup:""")
+bot.run(token)
